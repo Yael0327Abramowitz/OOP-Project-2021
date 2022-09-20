@@ -1,0 +1,167 @@
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\BL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\BL.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\DAL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\Entities.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\obj\Debug\BL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder\BL\obj\Debug\BL.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\source\repos\This is a new OOPproject folder - Copy\BL\obj\Debug\BL.pdb
+D:\OOP project v3\BL\bin\Debug\BL.exe.config
+D:\OOP project v3\BL\bin\Debug\BL.exe
+D:\OOP project v3\BL\bin\Debug\BL.pdb
+D:\OOP project v3\BL\bin\Debug\DAL.exe
+D:\OOP project v3\BL\bin\Debug\Entities.exe
+D:\OOP project v3\BL\bin\Debug\DAL.pdb
+D:\OOP project v3\BL\bin\Debug\DAL.exe.config
+D:\OOP project v3\BL\bin\Debug\Entities.pdb
+D:\OOP project v3\BL\bin\Debug\Entities.exe.config
+D:\OOP project v3\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\OOP project v3\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\OOP project v3\BL\obj\Debug\BL.csproj.CopyComplete
+D:\OOP project v3\BL\obj\Debug\BL.exe
+D:\OOP project v3\BL\obj\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\BL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\DAL.exe
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\Entities.exe
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\DAL.pdb
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\DAL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\Entities.pdb
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\bin\Debug\Entities.exe.config
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\obj\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\OOP project v3\BL\obj\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\BL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\DAL.exe
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\Entities.exe
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\DAL.pdb
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\DAL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\Entities.pdb
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\bin\Debug\Entities.exe.config
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\obj\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\Maalot\schoolwork\C#\to zip\BL\obj\Debug\BL.pdb
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\source\repos\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\source\repos\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\source\repos\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\lenovo\OneDrive\Desktop\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\Downloads\new version\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\source\repos\new version\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\OneDrive\Desktop\new version\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.pdb
+C:\Users\lenovo\Downloads\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.exe.config
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.exe
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\BL.pdb
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.exe
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.exe
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.pdb
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\DAL.exe.config
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.pdb
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\bin\Debug\Entities.exe.config
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.exe
+C:\Users\yaela\source\repos\OOP\final!!!\to zip - Copy (2)\to zip - Copy\BL\obj\Debug\BL.pdb

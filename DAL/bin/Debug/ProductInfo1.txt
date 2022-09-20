@@ -1,0 +1,5 @@
+﻿123,Apples,1,9
+234,Bananas,2,8
+345,Strawberries,3,7
+456,Cherries,4,8
+567,Peaches,5,9
