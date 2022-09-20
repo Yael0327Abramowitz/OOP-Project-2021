@@ -6,4 +6,3 @@ add to it, upadate products, and delete products. The project ssimulate 3 tier a
 It includes basic error handing, and includes a framework for allowing additional functionality. 
 (Customer, sales, and other classes have been added for future app development.)
 
-The design factor is minimal.
